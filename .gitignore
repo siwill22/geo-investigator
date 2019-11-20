@@ -8,3 +8,5 @@ in2018_v04_Magnetometer_Segments.png
 .ipynb_checkpoints/underway_data_plots-checkpoint.ipynb
 .ipynb_checkpoints/DredgeSiteProcessing-checkpoint.ipynb
 .ipynb_checkpoints/DredgingTension-checkpoint.ipynb
+
+Figures/*.pdf
